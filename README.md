@@ -5,7 +5,7 @@ WhereAmI - an Android app - finds your way.
 
 <span lang="EN-US">© GubboIT  2012-2013</span>
 
-[![](https://github.com/kjellej/whereami/blob/master/lost3sat.png)
+[](lost3sat.png?raw=true "Title")
 
 For more screenshots see the png-files.
 
@@ -13,7 +13,7 @@ whereami.gz contains all source code, assets, and files for Eclipse. Can (hopful
 
 # <span lang="EN-US">Where am I? - 1.0</span>
 
-<span lang="EN-US">The **Where am I**  app finds your way. The app works with GPS and Google Maps. Use the functions **Where am I** or **I am lost** possibly in combination with the **Mark** function.</span>
+[!]<span lang="EN-US">The **Where am I**  app finds your way. The app works with GPS and Google Maps. Use the functions **Where am I** or **I am lost** possibly in combination with the **Mark** function.</span>
 
 # <span lang="EN-US">Where am I?</span>
 
