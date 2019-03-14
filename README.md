@@ -5,7 +5,9 @@ WhereAmI - an Android app - finds your way.
 
 <span lang="EN-US">© GubboIT  2012-2013</span>
 
-For some screenshots see the png-files.
+[![](https://github.com/kjellej/whereami/blob/master/lost3sat.png)
+
+For more screenshots see the png-files.
 
 whereami.gz contains all source code, assets, and files for Eclipse. Can (hopfully) be extracted on both Windows and Linux using tar.
 
