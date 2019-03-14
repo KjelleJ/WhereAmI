@@ -5,7 +5,7 @@ WhereAmI - an Android app - finds your way.
 
 <span lang="EN-US">© GubboIT  2012-2013</span>
 
-[](lost3sat.png?raw=true "Title")
+![](lost3sat.png?raw=true "Title")
 
 For more screenshots see the png-files.
 
